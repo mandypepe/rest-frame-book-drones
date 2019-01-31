@@ -108,7 +108,4 @@ venv.bak/
 .gitignore
 .idea/libraries/
 .idea/sonarlint/
-
-
-templates/
 .idea/vcs.xml
