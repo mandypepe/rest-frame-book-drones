@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f380a8e2-743f-43f0-8046-eae0c7229e84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drones/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drones/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drones/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drones/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/drones/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drones/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/drones/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restframebookdrones/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/restframebookdrones/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restframebookdrones/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/restframebookdrones/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="f380a8e2-743f-43f0-8046-eae0c7229e84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,92 +42,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drones/models.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor>
-                <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
-              </first_editor>
-              <second_editor relative-caret-position="-119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drones/serializers.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="782">
-                <caret line="48" selection-start-line="48" selection-end-line="48" />
-                <folding>
-                  <element signature="e#0#38#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor relative-caret-position="-34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drones/views.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="176">
-                <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
-                <folding>
-                  <element signature="e#0#35#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor relative-caret-position="-119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drones/urls.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-                <folding>
-                  <element signature="e#0#32#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/restframebookdrones/settings.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="195">
-                <caret line="132" selection-start-line="132" selection-end-line="132" />
-              </first_editor>
-              <second_editor relative-caret-position="-119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/restframebookdrones/urls.py">
-          <provider selected="true" editor-type-id="live-pycharm">
-            <state>
-              <first_editor relative-caret-position="340">
-                <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-                <folding>
-                  <element signature="e#643#675#0" expanded="true" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -178,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,21 +88,10 @@
               <item name="rest-frame-book-drones" type="b2602c69:ProjectViewProjectNode" />
               <item name="rest-frame-book-drones" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="rest-frame-book-drones" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rest-frame-book-drones" type="462c0819:PsiDirectoryNode" />
-              <item name="drones" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rest-frame-book-drones" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rest-frame-book-drones" type="462c0819:PsiDirectoryNode" />
-              <item name="restframebookdrones" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,10 +172,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13106000" />
+    <option name="totallyTimeSpent" value="13113000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="1" width="727" height="745" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5075643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,20 +241,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://47c21b63-04c2-4106-b517-3f8efce9a8d2/schema/drones/table/drones_drone">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://47c21b63-04c2-4106-b517-3f8efce9a8d2/schema/drones/table/drones_dronecategory">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://47c21b63-04c2-4106-b517-3f8efce9a8d2/schema/drones/table/drones_drone" />
+    <entry file="das://47c21b63-04c2-4106-b517-3f8efce9a8d2/schema/drones/table/drones_dronecategory" />
     <entry file="file://$PROJECT_DIR$/restframebookdrones/urls.py">
       <provider selected="true" editor-type-id="live-pycharm">
         <state>
