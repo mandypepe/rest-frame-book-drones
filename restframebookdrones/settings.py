@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'drones.apps.DronesConfig',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
@@ -77,8 +78,17 @@ WSGI_APPLICATION = 'restframebookdrones.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        # Replace drones with your desired database name
+        'NAME': 'drones',
+        # Replace username with your desired user name
+        'USER': 'root',
+        # Replace password with your desired password
+        'PASSWORD': 'sasa',
+        # Replace 127.0.0.1 with the PostgreSQL host
+        'HOST': '127.0.0.1',
+        # Replace 5432 with the PostgreSQL configured port
+        # in case you aren't using the default port
     }
 }
 
@@ -120,3 +130,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
