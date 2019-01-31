@@ -66,3 +66,5 @@ class Competition(models.Model):
     class Meta:
         # Order by distance in descending order
         ordering = ('-distance_in_feet',)
+
+

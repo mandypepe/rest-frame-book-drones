@@ -131,3 +131,8 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'drones.custompagination.LimitOffsetPaginationWithUpperBound',
+    'PAGE_SIZE': 1
+}
