@@ -109,3 +109,4 @@ venv.bak/
 .idea/libraries/
 .idea/sonarlint/
 .idea/vcs.xml
+*.pyc
